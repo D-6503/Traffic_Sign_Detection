@@ -1,9 +1,9 @@
-# Traffic-Sign-Recognition-Using-YOLO
+# Traffic-Sign-Detection
 
 This repository contains model and training notebook for traffic sign recognition
 
 ## Dataset
-The dataset used for training is [German Traffic Sign Recognition Benchmark (GTSRB)](https://benchmark.ini.rub.de/?section=gtsrb&subsection=dataset) containing 43 classes of traffic signs. The training set contains 39209 labeled images and the test set contains 12630 unlabelled images.
+The dataset used for training is (https://benchmark.ini.rub.de/?section=gtsrb&subsection=dataset) containing 43 classes of traffic signs. The training set contains 39209 labeled images and the test set contains 12630 unlabelled images.
 
 ![image](https://user-images.githubusercontent.com/35000278/116809754-50276780-ab5d-11eb-87fa-1f513be1f876.png)
 
